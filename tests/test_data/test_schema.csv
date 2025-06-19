@@ -1,0 +1,11 @@
+column,question_text,type
+MainBranch,"Which of the following options best describes you today?",SC
+Age,What is your age?,SC
+Employment,Which of the following best describes your current employment status?,MC
+RemoteWork,Which best describes your current work situation?,SC
+LanguageHaveWorkedWith,Which programming languages have you worked with?,MC
+LanguageWantToWorkWith,Which programming languages do you want to work with?,MC
+DatabaseHaveWorkedWith,Which database environments have you worked with?,MC
+Country,Where do you live?,SC
+AISelect,Do you currently use AI tools?,SC
+JobSat,How satisfied are you in your role?,SC

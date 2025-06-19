@@ -1,0 +1,6 @@
+MainBranch,Age,Employment,RemoteWork,LanguageHaveWorkedWith,LanguageWantToWorkWith,DatabaseHaveWorkedWith,Country,AISelect,JobSat
+I am a developer by profession,25-34 years old,"Employed, full-time",Remote,Python;JavaScript;HTML/CSS,Python;JavaScript;Go,PostgreSQL;MongoDB,United States of America,Yes,8
+I am learning to code,18-24 years old,"Student, full-time",NA,Python;HTML/CSS,Python;JavaScript,SQLite,Canada,No,NA
+I am a developer by profession,35-44 years old,"Employed, full-time",Hybrid,Java;Python;SQL,Java;Python;Kotlin,MySQL;PostgreSQL,United Kingdom,Yes,7
+I code primarily as a hobby,45-54 years old,"Employed, part-time",Remote,JavaScript;HTML/CSS,JavaScript;TypeScript,NA,Germany,No,NA
+I am a developer by profession,25-34 years old,"Employed, full-time",In-person,C#;SQL,C#;Python,Microsoft SQL Server,Australia,Yes,9
